@@ -13,7 +13,7 @@ The specific problem I'm seeing happens with the following steps:
 #include <stdio.h>
 
 int main() {
-    printf("hi");
+    printf();
 }
 ```
 
